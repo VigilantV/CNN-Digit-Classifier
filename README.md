@@ -25,6 +25,10 @@ DATA_DIR/
 
 All steps below map directly to the code + markdown narrative in `cnn-digit-classifier-mnist-jpg.ipynb`.
 
+### Kaggle notebook (this project, ready to run)
+
+- **Kaggle code**: `https://www.kaggle.com/code/mehrabgheibi/cnn-digit-classifier-accuracy-99`
+
 ### 1) Image preview (sanity check)
 
 The notebook starts by displaying a few sample images to confirm they load correctly and look like digits.
