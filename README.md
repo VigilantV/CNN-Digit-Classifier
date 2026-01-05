@@ -5,9 +5,9 @@ Train a small TensorFlow/Keras CNN to classify handwritten digits **0–9** from
 ## Kaggle
 
 - **Dataset**:
-  `https://www.kaggle.com/datasets/scolianni/mnistasjpg`
+  [https://www.kaggle.com/datasets/scolianni/mnistasjpg](https://www.kaggle.com/datasets/scolianni/mnistasjpg)
 - **Notebook**:
-  `https://www.kaggle.com/code/mehrabgheibi/cnn-digit-classifier-accuracy-99`
+  [https://www.kaggle.com/code/mehrabgheibi/cnn-digit-classifier-accuracy-99](https://www.kaggle.com/code/mehrabgheibi/cnn-digit-classifier-accuracy-99)
 
 ## Highlights
 
@@ -27,7 +27,7 @@ Train a small TensorFlow/Keras CNN to classify handwritten digits **0–9** from
 
 ## Dataset
 
-- **Kaggle dataset**: `https://www.kaggle.com/datasets/scolianni/mnistasjpg`
+- **Kaggle dataset**: [https://www.kaggle.com/datasets/scolianni/mnistasjpg](https://www.kaggle.com/datasets/scolianni/mnistasjpg)
 
 Expected folder layout:
 
@@ -42,9 +42,9 @@ DATA_DIR/
 ## Run (Kaggle) — recommended
 
 1. Create a Kaggle notebook.
-2. Add the dataset: `https://www.kaggle.com/datasets/scolianni/mnistasjpg`
+2. Add the dataset: [https://www.kaggle.com/datasets/scolianni/mnistasjpg](https://www.kaggle.com/datasets/scolianni/mnistasjpg)
 3. Open the notebook:
-   `https://www.kaggle.com/code/mehrabgheibi/cnn-digit-classifier-accuracy-99`
+   [https://www.kaggle.com/code/mehrabgheibi/cnn-digit-classifier-accuracy-99](https://www.kaggle.com/code/mehrabgheibi/cnn-digit-classifier-accuracy-99)
    (or upload/run `cnn-digit-classifier-mnist-jpg.ipynb`).
 4. Ensure `DATA_DIR` points to the dataset folder containing the digit subfolders `0..9` (the notebook uses a Kaggle path by default).
 
